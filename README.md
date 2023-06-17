@@ -33,4 +33,8 @@ I used the Segment Anything model, to create a mask for an image, and then I us
    - Define the diffusion parameters, such as diffusion steps, time steps, and noise schedule.
    - Use the diffusion model to iteratively modify the image based on the masks.
    - Update the image's background according to the mask values during each diffusion step.
+
+<img width="1546" alt="Screenshot 2023-06-17 at 1 51 11 AM" src="https://github.com/RATHOD-SHUBHAM/DiffusionModel/assets/58945964/9dd654d4-cb37-44e8-8f45-40b91405e90e">
+
+---
   
