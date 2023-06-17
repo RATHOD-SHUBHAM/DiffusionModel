@@ -14,3 +14,6 @@
    - Prompt to images.
    - Generate images by iteratively applying the diffusion steps.
    - Save the generated images to disk or store them in memory for further analysis or applications.
+
+
+<img width="1097" alt="Screenshot 2023-06-17 at 3 11 02 AM" src="https://github.com/RATHOD-SHUBHAM/DiffusionModel/assets/58945964/e231f013-93ab-49a8-b29a-d1213425d0b0">
